@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MiniGameScripts\CNE_Gameplay.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MiniGameScripts\CNE_AnswerPick.cs" Line="13" Column="17" />
+      <File FileName="Assets\Scripts\MiniGameScripts\CNE_Gameplay.cs" Line="46" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
