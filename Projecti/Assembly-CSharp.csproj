@@ -6,7 +6,7 @@
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
 	<RootNamespace></RootNamespace>
-	<ProjectGuid>{2A924A7C-E451-ED1A-4566-45E45C19CFEC}</ProjectGuid>
+	<ProjectGuid>{B8446C71-BC8C-9E47-1B23-65EEE4D4D640}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<AssemblyName>Assembly-CSharp</AssemblyName>
@@ -50,6 +50,8 @@
      <Compile Include="Assets\Scripts\CharacterMovement.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\CNE_AnswerPick.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\CNE_Gameplay.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\WTB_Gameplay.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\WTB_ObjectClick.cs" />
      <Compile Include="Assets\Scripts\UIScripts\SelectedScript.cs" />
      <Compile Include="Assets\Scripts\UIScripts\StartSelectScript.cs" />
      <Compile Include="Assets\Scripts\WarpScripts\HomeWarpScript.cs" />
