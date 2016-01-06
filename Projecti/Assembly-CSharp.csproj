@@ -48,8 +48,25 @@
      <Compile Include="Assets\Scripts\CameraScripts\CameraScript.cs" />
      <Compile Include="Assets\Scripts\CameraScripts\StartCameraScript.cs" />
      <Compile Include="Assets\Scripts\CharacterMovement.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\AA_Scripts\RendererExtensions.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\AA_Scripts\StartMenu.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\AA_Scripts\gameplay.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\AA_Scripts\letterHandler.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\AA_Scripts\showendscore.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\AA_Scripts\showhighscore.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\CNE_AnswerPick.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\CNE_Gameplay.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\CTOS_Script\Main.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\CTOS_Script\switch1.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\CTOS_Script\switch2.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\CTOS_Script\switch3.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\JJ_Scripts\Click.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\JJ_Scripts\ColliderChecker.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\JJ_Scripts\FollowPlayer.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\JJ_Scripts\JJ_Main.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\JJ_Scripts\Move.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\JJ_Scripts\enMove.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\JJ_Scripts\start.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\WTB_Gameplay.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\WTB_ObjectClick.cs" />
      <Compile Include="Assets\Scripts\UIScripts\SelectedScript.cs" />
@@ -59,11 +76,17 @@
      <Compile Include="Assets\Scripts\WarpScripts\WarpElevatorScript.cs" />
      <Compile Include="Assets\Scripts\WarpScripts\WarpScript.cs" />
      <Compile Include="Assets\Scripts\WarpScripts\WarpStairsScript.cs" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
