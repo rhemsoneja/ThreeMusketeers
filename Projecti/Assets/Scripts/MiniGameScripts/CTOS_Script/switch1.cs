@@ -19,7 +19,7 @@ public class switch1 : MonoBehaviour {
 		if (Input.GetMouseButtonDown (0)) 
 		{
 			Debug.Log("Click");
-			Main.pressedb1 = true;
+			CTOS_Main.pressedb1 = true;
 		}
 	}
 }

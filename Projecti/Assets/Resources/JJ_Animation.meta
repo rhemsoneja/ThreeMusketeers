@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Projecti/Assets/Resources/JJ_Animation.meta
+guid: 2a1f128a93666774288c02b34e2a8a84
+folderAsset: yes
+timeCreated: 1452054852
+=======
 guid: 0803c993ce49bac43b178e5265de1301
 folderAsset: yes
 timeCreated: 1452082300
+>>>>>>> cbabed9920df14c2bb9cad596997054bc77ac1cf:Projecti/Assets/Resources/JJ_Animation.meta
 licenseType: Free
 DefaultImporter:
   userData: 
