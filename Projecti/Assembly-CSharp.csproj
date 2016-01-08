@@ -45,6 +45,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\MM_Ans.cs" />
+     <Compile Include="Assets\MM_Gameplay.cs" />
      <Compile Include="Assets\Scripts\CameraScripts\CameraScript.cs" />
      <Compile Include="Assets\Scripts\CameraScripts\StartCameraScript.cs" />
      <Compile Include="Assets\Scripts\CharacterMovement.cs" />
@@ -56,7 +58,7 @@
      <Compile Include="Assets\Scripts\MiniGameScripts\AA_Scripts\showhighscore.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\CNE_AnswerPick.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\CNE_Gameplay.cs" />
-     <Compile Include="Assets\Scripts\MiniGameScripts\CTOS_Script\Main.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\CTOS_Script\CTOS_Main.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\CTOS_Script\switch1.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\CTOS_Script\switch2.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\CTOS_Script\switch3.cs" />
@@ -67,6 +69,7 @@
      <Compile Include="Assets\Scripts\MiniGameScripts\JJ_Scripts\Move.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\JJ_Scripts\enMove.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\JJ_Scripts\start.cs" />
+     <Compile Include="Assets\Scripts\MiniGameScripts\SC_Gameplay.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\WTB_Gameplay.cs" />
      <Compile Include="Assets\Scripts\MiniGameScripts\WTB_ObjectClick.cs" />
      <Compile Include="Assets\Scripts\UIScripts\SelectedScript.cs" />
