@@ -11,7 +11,7 @@ public class showendscore : MonoBehaviour {
 	void Start () {
 		
 		//Debug.Log(gameplay.score);
-		GetComponent<GUIText>().text = "Score: " + gameplay.score;
+		GetComponent<GUIText>().text = "Score: " + AA_gameplay.score;
 		
 
 
